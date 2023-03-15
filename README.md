@@ -7,7 +7,7 @@ This work is realized as dissertation research project for the degree of MPhys T
 
 Abstract:
  <br>
-Finster, Smoller and Yau [Phys. Rev. D 59, 104020 (1999)] found static, spherically
+Finster, Smoller and Yau [[Phys. Rev. D 59, 104020 (1999)]](https://arxiv.org/abs/gr-qc/9801079) found static, spherically
 symmetric localized solutions to the Einstein-Dirac equations called Einstein-Dirac
 solitons (EDS). This work considers a modified version of the Einstein-Dirac system
 that takes into account a non-zero cosmological constant and a uniform matter
