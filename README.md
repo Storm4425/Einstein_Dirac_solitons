@@ -9,8 +9,8 @@ Abstract:
  <br>
 Finster, Smoller and Yau [Phys. Rev. D 59, 104020 (1999)] found static, spherically
 symmetric localized solutions to the Einstein-Dirac equations called Einstein-Dirac
-solitons (EDS). This work considers a modified version of the Einstein-Dirac sys-
-tem that takes into account a non-zero cosmological constant and a uniform matter
+solitons (EDS). This work considers a modified version of the Einstein-Dirac system
+that takes into account a non-zero cosmological constant and a uniform matter
 background. We show that EDS occur in this context, and we qualitatively identify
 a localization regime bounded above and below by the cosmological constant. The
 formation of EDS as a phase transition between a state of uniform energy density
@@ -18,7 +18,6 @@ and one where fermions condense out in localized structures constitutes a promis
 analogue to particle generation in the early universe. We introduce a model that
 utilizes EDS to reproduce a uniform matter background and that can be used to
 investigate their formation.
-ited prompts.
  <br>
 
 
@@ -43,5 +42,5 @@ Contains the code which numerically solves the Einstein-Dirac system and utilize
 - plots.nb <br>
 Generates plots.
 
-- plots_data <br>
+- data_plots <br>
 Contains data for plots.
